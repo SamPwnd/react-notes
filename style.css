@@ -150,6 +150,10 @@ button:focus {
 
 .trash-icon {
     cursor: pointer;
+    color: rgb(13, 13, 13);
+}
+
+.selected-note .trash-icon {
     color: rgba(245, 245, 245, 0.858);
 }
 
